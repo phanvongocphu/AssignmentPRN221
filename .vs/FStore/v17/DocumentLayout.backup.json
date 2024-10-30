@@ -1,0 +1,745 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\createorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\createorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\createorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\createorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\orderdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\orderdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\usermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\usermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\updateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\updateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\updateproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\updateproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\productmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\productmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|solutionrelative:fstore.businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\fstore.salesrazorapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\fstore.salesrazorapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\usermanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\usermanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\productmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\productmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\dao\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\dao\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\orderdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\orderdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\irepository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\irepository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\fstore.saleswpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\fstore.saleswpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\updateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\updateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\irepository\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\irepository\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.businessobject\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|solutionrelative:fstore.businessobject\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\updateproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\updateproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.businessobject\\migrations\\20241023045756__phu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|solutionrelative:fstore.businessobject\\migrations\\20241023045756__phu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.businessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|solutionrelative:fstore.businessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.businessobject\\fstore.businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|solutionrelative:fstore.businessobject\\fstore.businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\fstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\fstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241022134429__phu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FStore.BusinessObject\\Migrations\\20241022134429__phu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241020102754__phu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FStore.BusinessObject\\Migrations\\20241020102754__phu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241020102403__phu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FStore.BusinessObject\\Migrations\\20241020102403__phu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\OrderDetailWindow.xaml",
+              "RelativeDocumentMoniker": "FStore.WPF\\OrderDetailWindow.xaml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\OrderDetailWindow.xaml",
+              "RelativeToolTip": "FStore.WPF\\OrderDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T03:49:43.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FStore.WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\MainWindow.xaml",
+              "RelativeToolTip": "FStore.WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T08:06:23.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateOrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\CreateOrderWindow.xaml",
+              "RelativeDocumentMoniker": "FStore.WPF\\CreateOrderWindow.xaml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\CreateOrderWindow.xaml",
+              "RelativeToolTip": "FStore.WPF\\CreateOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T02:11:49.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateOrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\CreateOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FStore.WPF\\CreateOrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\CreateOrderWindow.xaml.cs",
+              "RelativeToolTip": "FStore.WPF\\CreateOrderWindow.xaml.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwH8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:16:42.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\UserManagementWindow.xaml",
+              "RelativeDocumentMoniker": "FStore.WPF\\UserManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\UserManagementWindow.xaml",
+              "RelativeToolTip": "FStore.WPF\\UserManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T16:33:57.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FStore.WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FStore.WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAxwCoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:06:21.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProfileWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\UpdateProfileWindow.xaml",
+              "RelativeDocumentMoniker": "FStore.WPF\\UpdateProfileWindow.xaml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\UpdateProfileWindow.xaml",
+              "RelativeToolTip": "FStore.WPF\\UpdateProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T16:37:01.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\UpdateProductWindow.xaml",
+              "RelativeDocumentMoniker": "FStore.WPF\\UpdateProductWindow.xaml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\UpdateProductWindow.xaml",
+              "RelativeToolTip": "FStore.WPF\\UpdateProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T15:28:14.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\ProductManagementWindow.xaml",
+              "RelativeDocumentMoniker": "FStore.WPF\\ProductManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\ProductManagementWindow.xaml",
+              "RelativeToolTip": "FStore.WPF\\ProductManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T15:04:07.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\appsettings.json",
+              "RelativeToolTip": "FStore.SalesRazorApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T06:30:07.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\Login.cshtml",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T06:30:01.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FStore.SalesRazorApp",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj",
+              "RelativeToolTip": "FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T06:29:15.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductManagementWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\ProductManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FStore.WPF\\ProductManagementWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\ProductManagementWindow.xaml.cs",
+              "RelativeToolTip": "FStore.WPF\\ProductManagementWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwDUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:08:38.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserManagementWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\UserManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FStore.WPF\\UserManagementWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\UserManagementWindow.xaml.cs",
+              "RelativeToolTip": "FStore.WPF\\UserManagementWindow.xaml.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv2oAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:35:32.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "FStore.BusinessObject\\appsettings.json",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\appsettings.json",
+              "RelativeToolTip": "FStore.BusinessObject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T04:14:47.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\OrderDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FStore.WPF\\OrderDetailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\OrderDetailWindow.xaml.cs",
+              "RelativeToolTip": "FStore.WPF\\OrderDetailWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:50:03.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\IRepository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IOrderRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\IRepository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:41:21.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\OrderDetailDAO.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\DAO\\OrderDetailDAO.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\OrderDetailDAO.cs",
+              "RelativeToolTip": "FStore.DataAccess\\DAO\\OrderDetailDAO.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwC0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:26:14.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\IRepository\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\IRepository\\IOrderDetailRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:41:49.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:44:26.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FStore.SalesWPFApp.csproj",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\FStore.SalesWPFApp.csproj",
+              "RelativeDocumentMoniker": "FStore.WPF\\FStore.SalesWPFApp.csproj",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\FStore.SalesWPFApp.csproj",
+              "RelativeToolTip": "FStore.WPF\\FStore.SalesWPFApp.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T08:27:30.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\Repository\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\MemberRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\Repository\\MemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:37:53.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateProfileWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\UpdateProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FStore.WPF\\UpdateProfileWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\UpdateProfileWindow.xaml.cs",
+              "RelativeToolTip": "FStore.WPF\\UpdateProfileWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:38:08.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:43:59.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\IRepository\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IMemberRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\IRepository\\IMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:37:26.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MemberDAO.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\MemberDAO.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\DAO\\MemberDAO.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\MemberDAO.cs",
+              "RelativeToolTip": "FStore.DataAccess\\DAO\\MemberDAO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:40:52.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\DAO\\OrderDAO.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\OrderDAO.cs",
+              "RelativeToolTip": "FStore.DataAccess\\DAO\\OrderDAO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:05:31.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\DAO\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\ProductDAO.cs",
+              "RelativeToolTip": "FStore.DataAccess\\DAO\\ProductDAO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwEkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:38:46.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FStore.BusinessObject\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\AppDbContext.cs",
+              "RelativeToolTip": "FStore.BusinessObject\\AppDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:13:29.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\UpdateProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FStore.WPF\\UpdateProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\UpdateProductWindow.xaml.cs",
+              "RelativeToolTip": "FStore.WPF\\UpdateProductWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:30:05.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:42:46.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:40:50.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\appsettings.json",
+              "RelativeDocumentMoniker": "FStore.WPF\\appsettings.json",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\appsettings.json",
+              "RelativeToolTip": "FStore.WPF\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T09:23:20.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:42:21.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:43:30.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241023045756__phu.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241023045756__phu.cs",
+              "RelativeDocumentMoniker": "FStore.BusinessObject\\Migrations\\20241023045756__phu.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241023045756__phu.cs",
+              "RelativeToolTip": "FStore.BusinessObject\\Migrations\\20241023045756__phu.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:57:56.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Category.cs",
+              "RelativeDocumentMoniker": "FStore.BusinessObject\\Category.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Category.cs",
+              "RelativeToolTip": "FStore.BusinessObject\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:20:49.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FStore.BusinessObject.csproj",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\FStore.BusinessObject.csproj",
+              "RelativeDocumentMoniker": "FStore.BusinessObject\\FStore.BusinessObject.csproj",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\FStore.BusinessObject.csproj",
+              "RelativeToolTip": "FStore.BusinessObject\\FStore.BusinessObject.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T08:27:58.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FStore.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\FStore.DataAccess.csproj",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\FStore.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\FStore.DataAccess.csproj",
+              "RelativeToolTip": "FStore.DataAccess\\FStore.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T08:27:48.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241022134429__phu.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241022134429__phu.cs",
+              "RelativeDocumentMoniker": "FStore.BusinessObject\\Migrations\\20241022134429__phu.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241022134429__phu.cs",
+              "RelativeToolTip": "FStore.BusinessObject\\Migrations\\20241022134429__phu.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:44:29.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241020102403__phu.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241020102403__phu.cs",
+              "RelativeDocumentMoniker": "FStore.BusinessObject\\Migrations\\20241020102403__phu.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241020102403__phu.cs",
+              "RelativeToolTip": "FStore.BusinessObject\\Migrations\\20241020102403__phu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:24:03.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241020102754__phu.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241020102754__phu.cs",
+              "RelativeDocumentMoniker": "FStore.BusinessObject\\Migrations\\20241020102754__phu.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241020102754__phu.cs",
+              "RelativeToolTip": "FStore.BusinessObject\\Migrations\\20241020102754__phu.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:27:54.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\App.xaml",
+              "RelativeDocumentMoniker": "FStore.WPF\\App.xaml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\App.xaml",
+              "RelativeToolTip": "FStore.WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T09:34:44.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FStore.WPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\App.xaml.cs",
+              "RelativeToolTip": "FStore.WPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:32:38.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

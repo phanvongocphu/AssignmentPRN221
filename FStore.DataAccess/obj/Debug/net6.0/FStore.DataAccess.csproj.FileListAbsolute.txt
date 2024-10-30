@@ -1,0 +1,16 @@
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\bin\Debug\net6.0\FStore.DataAccess.deps.json
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\bin\Debug\net6.0\FStore.DataAccess.dll
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\bin\Debug\net6.0\FStore.DataAccess.pdb
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\bin\Debug\net6.0\FStore.BusinessObject.dll
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\bin\Debug\net6.0\FStore.BusinessObject.pdb
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\obj\Debug\net6.0\FStore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\obj\Debug\net6.0\FStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\obj\Debug\net6.0\FStore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\obj\Debug\net6.0\FStore.DataAccess.AssemblyInfo.cs
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\obj\Debug\net6.0\FStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\obj\Debug\net6.0\FStore.D.B698F82B.Up2Date
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\obj\Debug\net6.0\FStore.DataAccess.dll
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\obj\Debug\net6.0\refint\FStore.DataAccess.dll
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\obj\Debug\net6.0\FStore.DataAccess.pdb
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\obj\Debug\net6.0\ref\FStore.DataAccess.dll
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.DataAccess\bin\Debug\net6.0\appsettings.json

@@ -1,0 +1,15 @@
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\bin\Debug\net6.0\FStore.BusinessObject.deps.json
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\bin\Debug\net6.0\FStore.BusinessObject.runtimeconfig.json
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\bin\Debug\net6.0\FStore.BusinessObject.dll
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\bin\Debug\net6.0\FStore.BusinessObject.pdb
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\obj\Debug\net6.0\FStore.BusinessObject.csproj.AssemblyReference.cache
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\obj\Debug\net6.0\FStore.BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\obj\Debug\net6.0\FStore.BusinessObject.AssemblyInfoInputs.cache
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\obj\Debug\net6.0\FStore.BusinessObject.AssemblyInfo.cs
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\obj\Debug\net6.0\FStore.BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\obj\Debug\net6.0\FStore.BusinessObject.dll
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\obj\Debug\net6.0\refint\FStore.BusinessObject.dll
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\obj\Debug\net6.0\FStore.BusinessObject.pdb
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\obj\Debug\net6.0\FStore.BusinessObject.genruntimeconfig.cache
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\obj\Debug\net6.0\ref\FStore.BusinessObject.dll
+C:\Users\phanv\Documents\FPT\PRN221\Assignment\FStore\FStore.BusinessObject\bin\Debug\net6.0\appsettings.json
